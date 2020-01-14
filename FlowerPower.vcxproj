@@ -112,6 +112,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="WIFi.h" />
     <None Include="src\arduino folders read me.txt">
     </None>
   </ItemGroup>

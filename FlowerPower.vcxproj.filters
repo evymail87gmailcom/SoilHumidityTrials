@@ -19,6 +19,9 @@
     <None Include="src\arduino folders read me.txt">
       <Filter>Misc Files</Filter>
     </None>
+    <None Include="WIFi.h">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.FlowerPower.vsarduino.h">
